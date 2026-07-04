@@ -42,7 +42,9 @@ const dongwoo = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jdongwoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=b16cff&text_color=c9d1d9"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdongwoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9"/>
+<img src="https://streak-stats.demolab.com?user=jdongwoo&hide_border=true&background=0d1117&ring=00f0ff&fire=ff2e88&currStreakLabel=00f0ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=b16cff&dates=8b949e&stroke=30363d" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jdongwoo&hide_border=true&bg_color=0d1117&color=00f0ff&line=b16cff&point=ff2e88&area=true&area_color=302b63&title_color=00f0ff" width="100%" alt="activity graph"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jdongwoo/jdongwoo/output/github-snake-dark.svg"/>
