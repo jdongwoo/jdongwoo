@@ -1,29 +1,15 @@
-# Dongwoo J
+# Dongwoo Jeong
 
-![followers](https://img.shields.io/github/followers/jdongwoo?style=flat)
-![codex-mem](https://img.shields.io/github/stars/jdongwoo/codex-mem?style=flat)
+I build developer tooling for AI coding agents, with a focus on persistent memory and retrieval.
 
-Building practical developer tools with a focus on AI‑assisted workflows and durable memory.
+## Work
 
-## Now
+[codex-mem](https://github.com/jdongwoo/codex-mem) is project-scoped long-term memory for the Codex CLI. It stores summaries, decisions, and conversation turns in SQLite (PostgreSQL supported) and retrieves them with hybrid search: SQL metadata filters combined with optional Chroma vector retrieval. Apache-2.0.
 
-- Shipping **codex-mem**: SQL‑backed long‑term memory for Codex
-- Exploring AI‑first developer ergonomics
-- Keeping systems simple, fast, and reliable
+## Elsewhere
 
-## Projects
-
-- **codex-mem** — persistent memory loop (search → act → summarize) backed by SQL
-  - https://github.com/jdongwoo/codex-mem
-
-## Focus
-
-AI systems that are:
-
-- Useful before they are clever
-- Deterministic where it matters
-- Easy to adopt and hard to misuse
+Day to day I also work with Kubernetes, GitHub Actions, and self-hosted LLM serving with Ollama on OCI.
 
 ## Contact
 
-- GitHub: @jdongwoo
+dw20180107@gmail.com
